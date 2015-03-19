@@ -1,3 +1,3 @@
-Hello world
-Hallo Welt
-Bonjour le monde
+Hello world!
+Hallo Welt!
+Bonjour le monde!
